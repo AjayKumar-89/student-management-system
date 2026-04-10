@@ -3,8 +3,7 @@
 A professional Full-Stack application designed to manage student records, staff, and campus activities efficiently. Built with the **MERN** stack and deployed on the cloud.
 
 ## 🚀 Live Links
-- **Frontend (Vercel):** [https://student-management-system-omega-khaki.vercel.app](https://student-management-system-omega-khaki.vercel.app)
-- **Backend API (Render):** [https://student-management-system-9g08.onrender.com](https://student-management-system-9g08.onrender.com)
+[https://student-management-system-omega-khaki.vercel.app](https://student-management-system-omega-khaki.vercel.app)
 
 ## ✨ Key Features
 - **Authentication:** Secure Login and Sign-up using JWT (JSON Web Tokens).
