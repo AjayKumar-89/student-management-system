@@ -1,0 +1,9 @@
+{
+  "name": "student-management-fullstack-inner",
+  "version": "1.0.0",
+  "description": "Inner configuration to run both frontend and backend simultaneously",
+  "scripts": {
+    "dev": "node dev.js",
+    "install:all": "npm install --prefix backend && npm install --prefix frontend"
+  }
+}
